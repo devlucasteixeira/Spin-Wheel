@@ -4,4 +4,4 @@
 
 <img src="https://i.imgur.com/LFnmfGZ.png" alt="Spin Wheel">
 
-[Imgur](https://i.imgur.com/78zqHwF.mp4)
+<img src="https://i.imgur.com/z8gyZtr.gif" alt="Spin Wheel">
